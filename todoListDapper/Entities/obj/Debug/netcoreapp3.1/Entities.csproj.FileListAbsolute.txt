@@ -1,0 +1,9 @@
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\gitao\aspnet-core-mvc-dapper\todoListDapper\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
